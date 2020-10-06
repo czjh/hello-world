@@ -1,2 +1,3 @@
 # hello-world
-beginning
+
+Stage 1: Learning of GitHub.
